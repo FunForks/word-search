@@ -1,4 +1,4 @@
-# Wordify: a command-prompt app
+# Word Search: a command-prompt app
 
 Can you create an app that calculates the relationships between words?
 
