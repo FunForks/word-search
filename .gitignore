@@ -2,3 +2,4 @@ node_modules/
 Other/
 testing/
 .vscode/
+.DS_Store
