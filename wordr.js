@@ -64,7 +64,7 @@ function findAnagrams(word) {
     return anagrams[key] || []
   }
 
-  // Return just the values, not the alphabetically scramble keys
+  // Return just the values, not the alphabetically scrambled keys
   return Object.values(anagrams)
 }
 
